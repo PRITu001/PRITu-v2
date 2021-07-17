@@ -7,7 +7,7 @@ I make random stuff using random codes!
 <br>
 <img src="https://komarev.com/ghpvc/?username=pritulxD&color=blueviolet">
 <br />
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75468116/126033402-034f3aec-81c9-4020-be1a-7bf9139ba23e.png" />
   
 ### Languages and Tools: 
 
