@@ -20,14 +20,13 @@ I make random stuff using random codes!
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Vinlybot](https://github.com/pritudev/Vinlybot)
+- 🔭 I’m currently working on [Jarvis An AI](https://github.com/pritudev/Jarvis)
 - 🌱 I’m currently learning discord.js/JavaScript
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [Discord Server](https://discord.gg/DXyczwxQYf)
 - 😄 Pronouns: He / Him
-- 💎 Projects maintained by me: [Vinlybot](https://github.com/pritudev/Vinlybot)
-- 📦 My biggest project so far: [Vinlybot](https://github.com/pritudev/Vinlybot)
-
+- 💎 Projects maintained by me: [Jarvis An AI](https://github.com/pritudev/Jarvis), [Zak Bot](https://github.com/pritudev/zakbot)
+- 📦 My biggest project so far: [Jarvis An AI](https://github.com/pritudev/Jarvis)
 <br>
 <br>
 <br>
