@@ -43,11 +43,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Introduction to Meta tags, links, title, script |  Web development Tutorial #2](https://www.youtube.com/watch?v=koVz_kPXHqs)
 - [Introduction to HTML, CSS, JS & Web Basics | Web Development Tutorial #1](https://www.youtube.com/watch?v=Yn2e7P67Xmg)
 - [Tilt Effect in Button Using Tilt.js](https://www.youtube.com/watch?v=B5DNYGEFwJc)
 - [Draw Swiggy Logo In Python Using Turtle.](https://www.youtube.com/watch?v=_UWe7y9aYW0)
 - [Draw a Pikachu In Python Using Turtle](https://www.youtube.com/watch?v=5QItvKKfej0)
-- [Pure CSS Only Moon Phase Animation!](https://www.youtube.com/watch?v=h-dD6l8V2k4)
 <!-- YOUTUBE:END -->
 
 
