@@ -31,15 +31,20 @@ I make random stuff using random codes!
 <br>
 
 <details>
-<summary style="font-size: 30px;">Stats</summary>
+<summary style="font-size: 30px;"><em>Pritudev's Github States</em></summary>
     
   _(Wakatime stats of all time)_
   
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pritudev)](https://github.com/pritudev)
+[![pritu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pritudev)](https://github.com/pritudev)
 
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritudev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+![States](https://github-readme-stats.vercel.app/api?username=pritudev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+  
+![Top Lanngs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritudev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 </details>
+
+
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -53,7 +58,7 @@ I make random stuff using random codes!
 
 pritu HQ | ❤️ Developer |
 :---: | :---:
-[![Sponsor-Image](https://cdn.discordapp.com/icons/856501506093875220/a_74268581d5b67fe744052e0c4d5674e2.png?size=1024)](https://www.youtube.com/pritu) | The Discord Channel, subscribe for Discord.js related tutorials videos and join [support server](https://discord.io/prituhhq) for any kind of help. Click [here](https://www.youtube.com/pritu) to subscribe!
+[![Sponsor-Image](https://cdn.discordapp.com/icons/856501506093875220/a_74268581d5b67fe744052e0c4d5674e2.png?size=1024)](https://www.youtube.com/pritu) | The Discord Channel, subscribe for Discord.js related tutorials videos and join [support server](https://discord.io/prituhq) for any kind of help. Click [here](https://www.youtube.com/pritu) to subscribe!
 
 
 ©️[pritu2077](https://github.com/pritu2077)
