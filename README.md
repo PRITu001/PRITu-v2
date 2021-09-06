@@ -49,11 +49,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simple Theme Toggle Dark To Light // Easy Using HTML, CSS, & JS](https://www.youtube.com/watch?v=hTsqeA-7pEo)
 - [HTML Tutorials - Class, Id & Entities | Web Development Course #6](https://www.youtube.com/watch?v=MUDtk6f-bUQ)
 - [Multi-line Underline Text Gradient Animation |  Quick CSS Tips & Tricks](https://www.youtube.com/watch?v=OmM5syEpkQU)
 - [HTML Tutorials - Forms & Input tags | Web Development Course #6](https://www.youtube.com/watch?v=AO-lzKdw3vc)
 - [HTML Tutorials - Lists & Tables In HTML | Web Development Course #5](https://www.youtube.com/watch?v=dh52g2I6OJU)
-- [HTML Tutorials - Anchor Tag, Images & HTML comments | Web Development Course #4](https://www.youtube.com/watch?v=hsGegnlIxZ4)
 <!-- YOUTUBE:END -->
 
 
