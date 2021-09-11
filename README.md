@@ -38,11 +38,11 @@ I make random stuff using random codes!
   
 [![pritu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pritudev)](https://github.com/pritudev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritudev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritudev&theme=onedark&hide_border=true)](https://git.io/streak-stats)
   
-![States](https://github-readme-stats.vercel.app/api?username=pritudev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![States](https://github-readme-stats.vercel.app/api?username=pritudev&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=0D1117)
   
-![Top Lanngs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritudev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Top Lanngs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritudev&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117)
 </details>
 
 
