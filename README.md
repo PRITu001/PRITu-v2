@@ -28,7 +28,7 @@ Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming
 
 <a href="https://github.com/pritudev/pritudev.me">
 <p align="center" href="https://discord.io/prituhq" >
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=pritudev&repo=pritudev.me"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=pritudev&repo=pritudev.me&bg=#010409"/>
 </p>
 </a>
 
