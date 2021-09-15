@@ -1,4 +1,7 @@
+<font size="10">
 <h1 align="center"> Hey, I'm pritu 👋</h1>
+</font>
+
 <h4 align="center">Full Stack Web Developer & YouTuber </h4>
 
 <h3 align="center">Tools & Languages</h3>
